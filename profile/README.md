@@ -21,5 +21,5 @@ Biology undergraduate in Colombia. Focused on the intersection of biology, bioin
 * **Systems:** Linux/Ubuntu (WSL2), Bash, command-line tools.
 
 ### Contacto
-📧 sebascas@live.co
+📧 sebascas@live.com
 💼 [LinkedIn](https://www.linkedin.com/in/juan-sebastian-castañeda-almanzar-155276175/)
